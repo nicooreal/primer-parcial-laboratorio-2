@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1665086500 source:c:\users\nico\documents\utn\laboratorio 2\primer parcial\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1665687005 c:\users\nico\documents\utn\laboratorio 2\primer parcial\estudiante.h
+	<string>
+	"Fecha.h"
+
+1665086511 c:\users\nico\documents\utn\laboratorio 2\primer parcial\fecha.h
+	<string>
+
+1665686851 source:c:\users\nico\documents\utn\laboratorio 2\primer parcial\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+
+1665686839 c:\users\nico\documents\utn\laboratorio 2\primer parcial\estudiantesarchivo.h
+	"Estudiante.h"
+
+1652994026 source:c:\users\nico\documents\utn\laboratorio 2\primer parcial\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1684272389 source:c:\users\nico\documents\utn\laboratorio 2\primer parcial\main.cpp
+	"PrimerParcial.h"
+	"Estudiante.h"
+	"PagosArchivo.h"
+	"Pago.h"
+	<iostream>
+
+1684204357 source:c:\users\nico\documents\utn\laboratorio 2\primer parcial\pago.cpp
+	"Pago.h"
+	<iostream>
+	"Fecha.h"
+
+1684193154 c:\users\nico\documents\utn\laboratorio 2\primer parcial\pago.h
+	"Fecha.h"
+
+1684198509 source:c:\users\nico\documents\utn\laboratorio 2\primer parcial\pagosarchivo.cpp
+	"PagosArchivo.h"
+	<iostream>
+
+1684193154 c:\users\nico\documents\utn\laboratorio 2\primer parcial\pagosarchivo.h
+	"Pago.h"
+
+1684272931 source:c:\users\nico\documents\utn\laboratorio 2\primer parcial\primerparcial.cpp
+	"PrimerParcial.h"
+	"Estudiante.h"
+	"PagosArchivo.h"
+	"EstudiantesArchivo.h"
+	<iostream>
+
+1665698641 c:\users\nico\documents\utn\laboratorio 2\primer parcial\include\primerparcial.h
+
